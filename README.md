@@ -1,9 +1,5 @@
-# KatchFoundry - 0.1rx
-The C++ rewrite of the game KatchFoundry.
-
-This is only the source code of releases of foundry. The source code is only released for specific versions.
-
-(MAKE SURE TO FOLLOW THE EULA TO PROCEED)
+# CrucibleSDK - 0.1.0
+The SDK for voxel-like games.
 
 The music content has been removed from this source release, and to use the assets make sure to get proper permission from Katch Studios, and make sure to give proper credit to specified artist.
 

@@ -6,7 +6,7 @@ The music content has been removed from this source release, and to use the asse
 (To compile this you must have raylib)
 
 ## Build Scripts:
-The main way of building Foundry is with the Makefile.
+The main way of building a CrucibleSDK project is with the Makefile.
 
 On all platforms make sure to install raylib, gcc, and make
 
